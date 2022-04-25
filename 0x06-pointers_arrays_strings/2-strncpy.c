@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _strncpy - copy the string
+ * _strncpy - copie the string
  * @dest: array that returns
- * @src: the pointerthat receive the staring
+ * @src: the pointer that receive the string
  * @n: times to interate
  *
  * Return: the parameter dest.
